@@ -1,4 +1,4 @@
-Rainbow poem and Unicorn
+Rainbow poem and Unicorn and the Pony 
 green
 purpule
 blue
@@ -8,3 +8,4 @@ unicorn
 orange
 red
 These are the colors of rainbow and the unicorn.
+Pony
